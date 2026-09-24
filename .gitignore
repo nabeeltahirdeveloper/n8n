@@ -44,3 +44,6 @@ packages/cli/THIRD_PARTY_LICENSES.md
 .nyc_output
 packages/cli/src/commands/export/outputs
 config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
